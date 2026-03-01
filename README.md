@@ -40,7 +40,7 @@ I am currently seeking a Junior .NET Developer opportunity where I can grow, lea
 - **ASP.NET Development**  
   Dare Academy (Jun 2025 - Dec 2025)
 
-  ## 💼 Professional Experience
+## 💼 Professional Experience
 
 ### Full Stack .NET Developer Trainee  
 Dare Academy | Internship  
