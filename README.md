@@ -9,11 +9,11 @@ Through my projects, I learned how to structure applications, handle user authen
 
 I am currently seeking a Junior .NET Developer opportunity where I can grow, learn from experienced developers, and contribute to real-world projects.
 
-🎓 Software Engineering graduate  
-💼 Full Stack .NET Developer  
-🌱 Working with ASP.NET Core, Web API, and Angular  
-📍 Based in Jordan  
-🎯 Goal: Join a professional development team and contribute to real-world projects 
+- 🎓 Software Engineering Student (Expected 2026)
+- 💼 Full Stack .NET Developer
+- 🌱 Working with ASP.NET Core, Web API, and Angular
+- 📍 Based in Jordan
+- 🎯 Goal: Join a professional development team and contribute to real-world projects
 
 ## 💻 Technical Skills
 
@@ -39,6 +39,46 @@ I am currently seeking a Junior .NET Developer opportunity where I can grow, lea
 
 - **ASP.NET Development**  
   Dare Academy (Jun 2025 - Dec 2025)
+
+  ## 💼 Professional Experience
+
+### Full Stack .NET Developer Trainee  
+Dare Academy | Internship  
+Jul 2025 – Dec 2025 | Amman, Jordan (Remote)
+
+- Developed full-stack applications using ASP.NET Core and Angular.
+- Built RESTful APIs and integrated them with SQL Server using EF Core.
+- Applied OOP, SOLID principles, and clean architecture.
+
+## 🚀 Projects
+
+### HU Career Gate – Graduation Project (In Progress)  
+The Hashemite University  
+Oct 2025 – Present  
+
+- Built a full-stack web application using ASP.NET Core Web API, Angular, and SQL Server.
+- Developed RESTful APIs to handle CRUD operations.
+- Implemented JWT authentication for secure user login.
+- Applied role-based authorization to control system access.
+- Designed and structured the SQL Server database with proper relationships.
+- Applied Clean Architecture principles to organize and maintain scalable project structure.
+
+## 🤝 Soft Skills
+
+- 🧠 Critical Thinking  
+- 👥 Team Collaboration  
+- ⚡ Quick Learner  
+- 🎯 Problem Solving
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyad.awadat.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyad-awadat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyad-awadat)
+
+---
+
+💡 *"Passionate about continuous learning and building impactful solutions."*
 <!--
 **eyad-awadat/eyad-awadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
