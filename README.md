@@ -31,6 +31,14 @@ I am currently seeking a Junior .NET Developer opportunity where I can grow, lea
 
 ### 🗄 Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Software Engineering**  
+  The Hashemite University, Jordan (Expected 2026)
+
+- **ASP.NET Development**  
+  Dare Academy (Jun 2025 - Dec 2025)
 <!--
 **eyad-awadat/eyad-awadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
